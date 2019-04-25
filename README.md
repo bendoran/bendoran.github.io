@@ -6,5 +6,5 @@ bundle install
 ### Compile to .Site Directory
 bundle exec jekyll build --watch
 
-### Just Server
+### Just Serve
 bundle exec jekyll serve

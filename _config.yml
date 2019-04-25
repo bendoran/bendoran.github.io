@@ -16,7 +16,7 @@
 title: Ben Doran
 email: me@bdoran.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Head of Technology at MullenLowe Profero, part-time Rugby player, infrequent speaker, 
+  CTO @ Brightmile, part-time Rugby player, infrequent speaker, 
   occasional drinker. Words and opinions are my own, obvs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bdoran.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
